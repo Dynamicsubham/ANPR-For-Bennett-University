@@ -26,3 +26,4 @@ Web Application: The web_app/ directory contains the integrated web application.
 # Note:
 
 This project is a prototype and was developed within a span of two months. While it demonstrates the feasibility of vehicle plate detection for Bennett University, further refinement and additional resources would be necessary for a full-fledged deployment.
+# ANPR-For-Bennett-University
